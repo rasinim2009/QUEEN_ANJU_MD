@@ -17,7 +17,7 @@ module.exports = {
   "ALLWAYS_ONLINE": true,
   "MOROCCO_BLOCK": true,
   "BTN_MSG": false,
-  "OWNER_NAME": "𝒟𝑒𝓃𝑒𝓉𝒽 𝑅𝒶𝓈𝒾𝓃𝒹𝓊 𝒩𝒾𝓂𝓈𝒶𝓇𝒶",
+  "OWNER_NAME": "💙𝗗𝗘𝗡𝗘𝗧𝗛 𝗥𝗔𝗦𝗜𝗡𝗗𝗨 𝗡𝗜𝗠𝗦𝗔𝗥𝗔💙",
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "AUTO_TYPING": false,
   "AUTO_RECORDING": true,
