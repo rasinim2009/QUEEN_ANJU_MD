@@ -1,5 +1,5 @@
 module.exports = {
-  "ALIVE_IMG": "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
+  "ALIVE_IMG": "𝙷𝙴𝙻𝙻𝙾𝚆👋 𝙸'𝙼 𝙰𝙻𝙸𝚅𝙴 𝙽𝙾𝚆! 𝙸'𝙼 𝙳𝙴𝙽𝙴𝚃𝙷 𝚁𝙰𝚂𝙸𝙽𝙳𝚄 𝙽𝙸𝙼𝚂𝙰𝚁𝙰, 𝚃𝚈𝙿𝙴 `.menu` GET COMMANDS.😇",
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
   "MODE": "public",
